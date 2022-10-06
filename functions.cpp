@@ -7,7 +7,6 @@
 
 using namespace std;
 
-// TODO Write this function
 int energy(const Pixel *const*image, int col, int row, int width, int height)
 {
   int Rx;
